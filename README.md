@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Yousuf%20Islam&fontSize=80&fontAlignY=50&desc=Full%20Stack%20Web%20Developer&descSize=20&descAlignY=70&color=0:282a36,100:44475a&fontColor=bd93f9" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Yousuf%20Islam&fontSize=90&fontAlignY=40&desc=Full%20Stack%20Web%20Developer&descSize=25&descAlignY=65&color=gradient&theme=dracula&animation=fadeIn" alt="Header" />
 </div>
 
 <h2 align="center">Hi 👋! I'm Yousuf, a Developer from Bangladesh.</h2>
