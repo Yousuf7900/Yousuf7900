@@ -6,7 +6,7 @@ on:
   workflow_dispatch:       # Allows manual run
   push:
     branches:
-    - main                 # Runs when you push to main
+    - main                 # Runs on push to main branch
 
 jobs:
   build:
@@ -14,8 +14,10 @@ jobs:
     permissions: 
       contents: write
     steps:
+      # Step 1: Check out the repository code
       - uses: actions/checkout@v3
       
+      # Step 2: Generate the snake images
       - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
@@ -24,7 +26,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
-      - uses: crazy-max/gh-action-github-pages@v3.1.0
+      # Step 3: Push the images to the 'output' branch
+      # UPDATED to v4 to fix the "Not Found" error
+      - uses: crazy-max/gh-action-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
