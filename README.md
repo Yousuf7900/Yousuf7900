@@ -2,10 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Yousuf%20Islam&fontSize=80&fontAlignY=50&desc=Full%20Stack%20Web%20Developer&descSize=20&descAlignY=70&color=0:282a36,100:44475a&fontColor=bd93f9" alt="Header" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yousuf7900&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
 <h2 align="center">Hi 👋! I'm Yousuf, a Developer from Bangladesh.</h2>
 
 <div align="center">
@@ -43,7 +39,7 @@
 ---
 
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <h3>🐍 Contribution History</h3>
   <img src="https://raw.githubusercontent.com/Yousuf7900/Yousuf7900/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
