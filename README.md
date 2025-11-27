@@ -2,8 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Yousuf%20Islam&fontSize=90&fontAlignY=40&desc=Full%20Stack%20Web%20Developer&descSize=25&descAlignY=65&color=gradient&theme=dracula&animation=fadeIn" alt="Header" />
 </div>
 
-<h2 align="center">Hello, I'm Yousuf, a Developer from Bangladesh.</h2>
-
 <div align="center">
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
   
