@@ -35,7 +35,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Yousuf7900&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yousuf7900&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Yousuf7900&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yousuf7900&bg_color=282a36&color=bd93f9&line=bd93f9&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
