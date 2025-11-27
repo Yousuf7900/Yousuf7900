@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Yousuf%20Islam&fontSize=90&fontAlignY=40&desc=Full%20Stack%20Web%20Developer&descSize=25&descAlignY=65&color=gradient&theme=dracula&animation=fadeIn" alt="Header" />
 </div>
 
-<h2 align="center">Hi 👋! I'm Yousuf, a Developer from Bangladesh.</h2>
+<h2 align="center">Hello, I'm Yousuf, a Developer from Bangladesh.</h2>
 
 <div align="center">
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
@@ -34,6 +34,8 @@
   <h3>📊 GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Yousuf7900&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yousuf7900&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf7900&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -47,10 +49,10 @@
 
 <div align="center">
   <br/>
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/yousuf7900/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:yousufislam7900@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <br/>
