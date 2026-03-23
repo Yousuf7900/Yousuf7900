@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <img align="right" height="150" src="https://media1.tenor.com/m/D_y_l_3KuiAAAAAC/john-wick-fortnite.gif" alt="Coding GIF" />
   <img align="right" height="150" src="https://media.tenor.com/kBTet_CC-zIAAAAi/dance-dancing.gif" alt="Coding GIF" />
   
   <p align="left">
